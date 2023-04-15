@@ -49,3 +49,13 @@ input[type="text"]:focus {
 html {
     scroll-behavior: smooth;
 }
+
+i {
+    color: red;
+    font-size: 40px;
+}
+
+#menu {
+    text-align: right; 
+    margin-right: 10px;
+}
