@@ -6,6 +6,7 @@ const stopButton = document.getElementById("stop_btn");
 const coordenadasText = document.getElementById("coordenadas");
 
 let processo = false;
+console.log('v1');
 
 document.getElementById("prosseguir_btn").onclick = function () {
     document.getElementById("titulo").scrollIntoView();
