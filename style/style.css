@@ -53,6 +53,7 @@ html {
 i {
     color: red !important;
     font-size: 40px !important;
+    margin-right: 20px !important;
 }
 
 div#menu {
