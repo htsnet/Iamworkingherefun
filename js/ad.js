@@ -6,5 +6,5 @@ atOptions = {
     'width': 728,
     'params': {}
 };
-document.getElementById("ad").append('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/87a0b0107c646108dca671ff143edece/invoke.js"></scr' + 'ipt>');
+document.body.appendChild('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/87a0b0107c646108dca671ff143edece/invoke.js"></scr' + 'ipt>');
 
