@@ -1,10 +1,10 @@
-window.onload = function () {
-    atOptions = {
-        'key': '87a0b0107c646108dca671ff143edece',
-        'format': 'iframe',
-        'height': 90,
-        'width': 728,
-        'params': {}
-    };
-    document.append('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/87a0b0107c646108dca671ff143edece/invoke.js"></scr' + 'ipt>');
-}
+
+atOptions = {
+    'key': '87a0b0107c646108dca671ff143edece',
+    'format': 'iframe',
+    'height': 90,
+    'width': 728,
+    'params': {}
+};
+document.getElementById("ad").append('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/87a0b0107c646108dca671ff143edece/invoke.js"></scr' + 'ipt>');
+
