@@ -51,8 +51,8 @@ html {
 }
 
 i {
-    color: red;
-    font-size: 40px;
+    color: red !important;
+    font-size: 40px !important;
 }
 
 div#menu {
