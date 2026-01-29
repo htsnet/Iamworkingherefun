@@ -99,3 +99,35 @@ div#menu {
 .extension-highlight a:hover {
     text-decoration: underline;
 }
+
+/* PRATIC Footer Styles */
+.pratic-footer {
+    margin-top: 40px;
+    padding: 30px 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+    border-top: 1px solid #ddd;
+}
+
+.pratic-footer p {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #444;
+    margin: 0 0 15px 0;
+}
+
+.pratic-footer a {
+    display: inline-block;
+    transition: opacity 0.3s ease;
+}
+
+.pratic-footer a:hover {
+    opacity: 0.8;
+}
+
+.pratic-footer img {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
